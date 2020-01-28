@@ -1,0 +1,16 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+hello da dai
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.headius.backport9.modules.Modules (file:/usr/share/logstash/logstash-core/lib/jars/jruby-complete-9.2.8.0.jar) to field java.io.FileDescriptor.fd
+WARNING: Please consider reporting this to the maintainers of com.headius.backport9.modules.Modules
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+kjhkjhhello 
+asdfjalsdf
+klncxlThread.exclusive is deprecated, use Thread::Mutex
+v
+skljfd;a
+ERROR: Unknown command '{'
+
+See: 'bin/logstash --help'
+[ERROR] 2020-01-27 19:11:15.188 [main] Logstash - java.lang.IllegalStateException: Logstash stopped processing because of an error: (SystemExit) exit

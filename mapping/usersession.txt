@@ -1,9 +1,0 @@
-{
-  "mappings": {
-    "properties": {
-      "ApplicationId":    { "type": "text" },  
-      "UserName":  { "type": "keyword"  }, 
-      "SessionId":   { "type": "text"  }     
-    }
-  }
-}
